@@ -120,7 +120,7 @@ git push origin v0.0.1
 
 After creating the repo, update `README.md`:
 
-Replace `yourusername` with your actual GitHub username:
+Replace `nottherealtar` with your actual GitHub username:
 ```markdown
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/TerrificOCR/releases)
 ```

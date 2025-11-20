@@ -6,13 +6,13 @@
 
 **Fast, Accurate, and Beautiful OCR for PDF Documents**
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/yourusername/TerrificOCR/releases)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://github.com/nottherealtar/TerrificOCR/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Electron](https://img.shields.io/badge/Electron-28.0-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![React](https://img.shields.io/badge/React-18.2-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
 [![Tesseract](https://img.shields.io/badge/Tesseract-5.5-blue?style=flat)](https://github.com/tesseract-ocr/tesseract)
 
-[Download](https://github.com/yourusername/TerrificOCR/releases) • [Documentation](docs/) • [Report Bug](https://github.com/yourusername/TerrificOCR/issues) • [Request Feature](https://github.com/yourusername/TerrificOCR/issues)
+[Download](https://github.com/nottherealtar/TerrificOCR/releases) • [Documentation](docs/) • [Report Bug](https://github.com/nottherealtar/TerrificOCR/issues) • [Request Feature](https://github.com/nottherealtar/TerrificOCR/issues)
 
 </div>
 
@@ -35,7 +35,7 @@
 
 ### Download & Install
 
-1. Download the latest release: [TerrificOCR-Setup-0.0.1.exe](https://github.com/yourusername/TerrificOCR/releases)
+1. Download the latest release: [TerrificOCR-Setup-0.0.1.exe](https://github.com/nottherealtar/TerrificOCR/releases)
 2. Run the installer
 3. Launch TerrificOCR
 4. Start processing PDFs!
@@ -119,7 +119,7 @@ More languages can be added easily!
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/TerrificOCR.git
+git clone https://github.com/nottherealtar/TerrificOCR.git
 cd TerrificOCR
 
 # Install dependencies
@@ -178,19 +178,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 
 ## 📊 Project Stats
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/TerrificOCR)
-![GitHub all releases](https://img.shields.io/github/downloads/yourusername/TerrificOCR/total)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/TerrificOCR?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/TerrificOCR?style=social)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/nottherealtar/TerrificOCR)
+![GitHub all releases](https://img.shields.io/github/downloads/nottherealtar/TerrificOCR/total)
+![GitHub stars](https://img.shields.io/github/stars/nottherealtar/TerrificOCR?style=social)
+![GitHub forks](https://img.shields.io/github/forks/nottherealtar/TerrificOCR?style=social)
 
 ## 🐛 Known Issues
 
-See the [Issues](https://github.com/yourusername/TerrificOCR/issues) page for known bugs and feature requests.
+See the [Issues](https://github.com/nottherealtar/TerrificOCR/issues) page for known bugs and feature requests.
 
 ## 📮 Contact
 
-- Create an [Issue](https://github.com/yourusername/TerrificOCR/issues)
-- Start a [Discussion](https://github.com/yourusername/TerrificOCR/discussions)
+- Create an [Issue](https://github.com/nottherealtar/TerrificOCR/issues)
+- Start a [Discussion](https://github.com/nottherealtar/TerrificOCR/discussions)
 
 ---
 
