@@ -1,0 +1,6 @@
+# Using pytesseract instead - more Windows-friendly, no compiler needed
+pytesseract>=0.3.10
+Pillow>=10.0.0
+flask>=3.0.0
+pymupdf>=1.23.0
+numpy>=1.21.0
